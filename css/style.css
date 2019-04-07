@@ -1,0 +1,54 @@
+.container {
+    font-family: sans-serif;
+    font-size: 0;
+    width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.head-nav-menu {
+    text-align: center;
+}
+
+.nav-menu-link {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 33px 35px;
+    color: #16a085;
+    vertical-align: middle;
+}
+
+.main-text-div {
+    background-color: #f5f6f7;
+    color: #373737;
+}
+
+.main-text-header {
+    font-size: 17px;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding: 60px 0 35px;
+}
+
+.random-text-item {
+    font-size: 14px;
+    font-weight: 700;
+    width: 80%;
+    margin: 0 auto 40px;
+}
+
+.get-started-button {
+    background-color: #16a085;
+    color: #ffffff;
+    padding: 20px 45px;
+    border-radius: 5px;
+    margin-bottom: 95px;
+}
+
+.footer {
+    font-size: 14px;
+    font-weight: 700;
+    text-align: right;
+    margin: 45px 105px 45px 0;
+}
