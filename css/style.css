@@ -16,7 +16,6 @@
     font-weight: 700;
     margin: 33px 35px;
     color: #16a085;
-    vertical-align: middle;
 }
 
 .main-text-div {
@@ -39,6 +38,8 @@
 }
 
 .get-started-button {
+    display: inline-block;
+    font-size: 14px;
     background-color: #16a085;
     color: #ffffff;
     padding: 20px 45px;
